@@ -1,68 +1,182 @@
+# 5-ALA
+
+![](images/logo.png)
+Capital Seaweed group
+
 <!-- Slide number: 1 -->
-BẢNG BÁO GIÁ SẢN PHẨM
+## BẢNG BÁO GIÁ SẢN PHẨM
 (Giải pháp giữ trọn Thanh Xuân)
 Trước tiên, Công Ty Cổ phần Capital Seaweed Consumer Việt Nam xin gửi lời cảm ơn chân thành đến Quý khách hàng đã quan tâm và tin tưởng các sản phẩm của chúng tôi. Chúng tôi xin trân trọng giới thiệu bảng giá chi tiết cho các sản phẩm chăm sóc sức khỏe và sắc đẹp như sau:
 
-![](Picture4.jpg)
-|  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MÃ SP | NHÀ SẢN XUẤT | TÊN SẢN PHẨM | HÌNH ẢNH SẢN PHẨM | QUY CÁCH | MOQ |  | Giá bán VNĐ (+8% VAT) | Tồng đơn hàng (VNĐ) | Ghi chú |
-|  |  |  |  |  | Đơn vị | Số lượng |  |  |  |
-| Neo01 | Neo Pharma JP | Axit 5-Aminolevulinic (5-ALA) |  | 60 viên/ Bottle | Bottle | 1 | 1,300,000 | 1,300,000 | Thanh toán trước khi nhận hàng & Ship hàng toàn quốc |
-|  |  |  |  |  |  | 5 | 4,250,000 | 21,250,000 |  |
-|  |  |  |  |  |  | 10 | 7,500,000 | 75,000,000 |  |
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">MÃ SP</th>
+      <th rowspan="2">NHÀ SẢN XUẤT</th>
+      <th rowspan="2">TÊN SẢN PHẨM</th>
+      <th rowspan="2">HÌNH ẢNH SẢN PHẨM</th>
+      <th rowspan="2">QUY CÁCH</th>
+      <th colspan="2">MOQ</th>
+      <th rowspan="2">Giá bán VNĐ (+8% VAT)</th>
+      <th rowspan="2">Tồng đơn hàng (VNĐ)</th>
+      <th rowspan="2">Ghi chú</th>
+    </tr>
+    <tr>
+      <th>Đơn vị</th>
+      <th>Số lượng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Neo01</td>
+      <td rowspan="3">Neo Pharma JP</td>
+      <td rowspan="3">Axit 5-Aminolevulinic (5-ALA)</td>
+      <td rowspan="3"><img src="images/image1-capsule.png" alt=""></td>
+      <td rowspan="3">60 viên/ Bottle</td>
+      <td rowspan="3">Bottle</td>
+      <td>1</td>
+      <td>1,300,000</td>
+      <td>1,300,000</td>
+      <td rowspan="3">Thanh toán trước khi nhận hàng & Ship hàng toàn quốc</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>4,250,000</td>
+      <td>21,250,000</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>7,500,000</td>
+      <td>75,000,000</td>
+    </tr>
+  </tbody>
+</table>
 
-![](Picture6.jpg)
-Mọi chi tiết xin vui lòng liên hệ
+### Mọi chi tiết xin vui lòng liên hệ
 CÔNG TY CỔ PHẦN CAPITAL SEAWEED CONSUMER VIỆT NAM
-Địa chỉ: Số 05 Đường CN13, Nhóm Công Nghiệp 1, Khu Công Nghiệp Tân Bình, phường Tây Thạnh, Tp. Hồ Chí Minh, Việt Nam.
-Điện thoại: 0283 816 1769 - Hotline: 0903 894 200 (Zalo/ Viber/ WhatsApp)
-Website: www.cscshop.vn - Email: support@csc-vn.com
-Tài khoản thanh toán:
-Số tài khoản: 441000661465
-Ngân hàng: TMCP Ngoại Thương Việt Nam - Chi Nhánh Tân Bình
+* Địa chỉ: Số 05 Đường CN13, Nhóm Công Nghiệp 1, Khu Công Nghiệp Tân Bình, phường Tây Thạnh, Tp. Hồ Chí Minh, Việt Nam.
+* Điện thoại: 0283 816 1769 - Hotline: 0903 894 200 (Zalo/ Viber/ WhatsApp)
+* Website: www.cscshop.vn - Email: support@csc-vn.com
+* Tài khoản thanh toán:
+    - Số tài khoản: 441000661465
+    - Ngân hàng: TMCP Ngoại Thương Việt Nam - Chi Nhánh Tân Bình
 
 <!-- Slide number: 2 -->
 Chúng tôi cam kết đảm bảo chất lượng và nguồn gốc của sản phẩm. Quý Khách có thể tham khảo thông tin chi tiết về từng sản phẩm, tài liệu khoa học, chứng từ - chứng nhận, cách sử dụng và giá cả trên website www.cscshop.vn của chúng tôi, hoặc liên hệ trực tiếp với đội ngũ KINH DOANH CỦA CSgroup để biết thêm thông tin.
 
-| ĐỘI NGŨ KINH DOANH |  |  |
-| --- | --- | --- |
-| Mr Đinh Tuấn Nam | 038 752 5924 | đinhtuannam@csc-vn.com |
-| Mrs Nguyễn Thị Thủy | 090 937 4711 | nguyenthithuy@csc-vn.com |
-| Ms. Từ Yến Anh | 093 218 5116 | tuyenanh@csc-vn.com |
-| Ms. Lâm Thảo Vi | 089 846 7758 | lamthaovi@csc-vn.com |
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">ĐỘI NGŨ KINH DOANH</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mr Đinh Tuấn Nam</td>
+      <td>038 752 5924</td>
+      <td>đinhtuannam@csc-vn.com</td>
+    </tr>
+    <tr>
+      <td>Mrs Nguyễn Thị Thủy</td>
+      <td>090 937 4711</td>
+      <td>nguyenthithuy@csc-vn.com</td>
+    </tr>
+    <tr>
+      <td>Ms. Từ Yến Anh</td>
+      <td>093 218 5116</td>
+      <td>tuyenanh@csc-vn.com</td>
+    </tr>
+    <tr>
+      <td>Ms. Lâm Thảo Vi</td>
+      <td>089 846 7758</td>
+      <td>lamthaovi@csc-vn.com</td>
+    </tr>
+  </tbody>
+</table>
+
 Chúng tôi luôn chăm chỉ làm việc để hỗ trợ Quý Khách Hàng tạo nên một cuộc sống lành mạnh, trẻ đẹp và tràn đầy năng lượng. Chúng tôi mong muốn mang “SỨC KHỎE - SẮC ĐẸP - TRƯỜNG THỌ” đến cho tất cả Quý Khách Hàng.
 
-![](object2.jpg)
-5-ALA
-(Neopharma, Japan)
+<table>
+  <tr>
+    <td>
+	  <img src="images/image2-2row.jpeg" /><br />
+	  <img src="images/image2-capsules.jpeg" />
+	</td>
+	<td>
+	  <img src="images/image2-running.jpg" /><br />
+	  5-ALA (Neopharma, Japan)
 Hỗ trợ điều trị Tiểu đường, duy trì & bồi bổ sức khỏe tổng thể!
-
-![](Picture8.jpg)
-
-![](Picture9.jpg)
+	</td>
+  </tr>
+</table>
 
 <!-- Slide number: 3 -->
 
-![](object2.jpg)
+## Công dụng của 5-ALA
+
+![](images/image3-congdung.jpg)
+
+* Tăng cường miễn dịch
+  5-ALA giúp cơ thể kích hoạt enzyme HO-1 phân hủy heme thành hợp chất bilirubin có khả năng điều hòa hệ miễn dịch hiệu quả.
+* Hỗ trợ sức khỏe tinh thần
+  5-ALA có thể cải thiện sức khỏe tinh thần bằng việc hỗ trợ tổng hợp các hợp chất cần thiết cho hệ thần kinh như serotonin, tryptophan, melatonin, mang đến một giấc ngủ ngon và tình thần sảng khoái, giúp cải thiện việc sa sút trí nhớ của người lớn tuổi.
+* Hỗ trợ cải thiện bệnh tiểu đường
+  5-ALA giúp kiểm soát và ổn định việc dung nạp glucose trong máu ở những người mắc bệnh tiểu đường.
+* Ngăn chặn virus
+  5-ALA có khả năng ngăn ngừa sự tăng sinh của virus nhờ vào hợp chất PpIX và heme giúp bất hoạt khả năng tăng trưởng của các loại virus như sốt xuất huyết, sốt vàng da, virus SARS-CoV-2,... Đồng thời ngăn chặn quá trình phiên mã của virus.
+* Cung cấp năng lượng (ATP)
+  Cơ thể được tăng cường năng lượng nhờ vào việc 5-ALA duy trì những chu trình bên trong tế bào được hoạt động tốt để thúc đấy tạo ra đầy đủ ATP cung cấp cho toàn bộ cơ thể.
+* Hỗ trợ chống oxy hóa
+  5-ALA giúp cơ thể kích hoạt enzyme HO-1 để sản sinh ra bilirubin và carbon monoxide (CO) có tác dụng loại bỏ các gốc oxy hóa tự do (ROS) có trong tế bào, từ đó sức khỏe của chúng ta được cải thiện rõ rệt.
 
 <!-- Slide number: 4 -->
 
-![](object2.jpg)
+![](images/image4-doituong.jpg)
+
+## Đối tượng sử dụng 5-ALA
+
+* Cần duy trì và bồi bổ sức khỏe tổng thể.
+* Suy giảm miễn dịch, hay gặp các vấn đề về sức khỏe.
+* Ăn uống thất thường, không nạp đủ chất dinh dương.
+* Thường xuyên căng thẳng, suy giảm trí nhớ.
+* Rối loạn nội tiết tố.
+* Tụt oxy máu thường xuyên.
+* Lão hóa sớm.
+* Mất ngủ thường xuyên, hay chóng mặt, hoa mắt.
+* Người lớn tuổi, đang mắc phải các bệnh lý nền.
+* Bệnh nhân tiểu đường, cần ổn định và kiểm soát lượng đường trong máu.
+* Các đối tượng bị ung thư cần liệu pháp hỗ trợ, ít gây hại nhất để phục hồi sức khỏe.
+
+## Hướng dẫn sử dụng 5-ALA
+
+* Đối với người khỏe mạnh muốn duy trì sức khỏe: Uống 1 viên mỗi ngày với nước ấm vào buổi tối trước khi ngủ để bổ sung dinh dưỡng, tăng cường miễn dịch và ngăn ngừa bệnh tật.
+* Đồi với người bị tiểu đường: Uống ngày 3 lần, mỗi lần 1-2 viên.
+* Đối với người bị lão hóa da: Uống ngày 2 lần, mỗi lần 1 viên.
+* Giúp tăng cường trí nhớ: Uống mỗi tối 2 viên.
+* Đồi với người nhiễm Covid:
+  * Trẻ từ 3 - 6 tuổi: Uống ngày 3 lần, mỗi lần 2 viên.
+  * Trẻ từ 7 - 9 tuổi: Uống ngày 3 lần, mỗi lần 3 viên.
+  * Từ 10 - 16 tuổi: Uống ngày 3 lần, mỗi lần 4 viên.
+  * Từ 17 tuổi trở lên: Uống ngày 3 lần, mỗi lần 5 viên.
+* Đối với người điều trị ung thư. Uống theo hướng dẫn và chỉ định của bác sĩ.
+
+**Lưu ý**: Uống thuốc với nước ấm. Uống trước ăn từ 30-60 phút và trước khi ngủ.
 
 <!-- Slide number: 5 -->
 
-![](object2.jpg)
-Axit 5-Aminolevulinic (5-ALA)
-(Yu Shimura)
-Viện nghiên cứu Di truyền của Người, Helmholtz Zentrum, Munchen, Munich, CHLB Đức
-Khoa nghiên cứu Sự chuyển hóa, Trung tâm Y tế Di truyền, Bệnh viện Trẻ em Chiba
+## Axit 5-Aminolevulinic (5-ALA)
+
+志村優(Yu Shimura)
+
+* Viện nghiên cứu Di truyền của Người, Helmholtz Zentrum, Munchen, Munich, CHLB Đức
+* Khoa nghiên cứu Sự chuyển hóa, Trung tâm Y tế Di truyền, Bệnh viện Trẻ em Chiba
+* 
 Diễn đàn Nghiên cứu Các bệnh Ti thể của Người lần thứ 5, ngày 23 tháng 01 năm 2021, 11h00 – 16h10
 
 <!-- Slide number: 6 -->
 
-![](object2.jpg)
-Nội Dung Chính
+## Nội Dung Chính
+
 1. Axit 5-Aminolevulinic Axit (5-ALA) là gì?
 	- Một số khái niệm cơ bản về 5-ALA
 	- Ứng dụng 5-ALA trong Y Dược
@@ -70,20 +184,22 @@ Nội Dung Chính
 3. Thử nghiệm lâm sàng trên bệnh não Leigh dưới sự hướng dẫn của bác sĩ
 
 <!-- Slide number: 7 -->
-PHẦN 1 - Axit 5-Aminolevulinic Axit (5-ALA) là gì?
-Một số khái niệm cơ bản về 5-ALA
-Ứng dụng 5-ALA trong Y Dược
+### PHẦN 1 - Axit 5-Aminolevulinic Axit (5-ALA) là gì?
+
+* Một số khái niệm cơ bản về 5-ALA
+* Ứng dụng 5-ALA trong Y Dược
 
 <!-- Slide number: 8 -->
-ALA là gì? – Tại sao ALA được xem là nguồn gốc sự sống
+### ALA là gì? – Tại sao ALA được xem là nguồn gốc sự sống
 
-![](object2.jpg)
 Axit 5-Aminolevulinic được gọi tắt là 5-ALA
 ALA được tổng hợp trên Trái đất nguyên thủy 3,6 tỷ năm trước;
 Amino axit tự nhiên được gọi là “nguồn gốc của sự sống”
-Không phải là một dạng protein
-Thiết yếu cho sự tổng hợp Hemoglobin (nền tảng của máu)
-Vô cùng quan trọng trong quá trình tạo ra năng lượng của tế bào
+* Không phải là một dạng protein
+* Thiết yếu cho sự tổng hợp Hemoglobin (nền tảng của máu)
+* Vô cùng quan trọng trong quá trình tạo ra năng lượng của tế bào
+
+TODO: From here
 
 ALA được tìm thấy lần đầu tiên trong cơ thể người; nó là một thành tố quan trọng của máu và chất diệp lục
 Hơn 500 loại axit amin
