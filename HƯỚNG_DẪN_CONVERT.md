@@ -69,6 +69,22 @@ Sử dụng `python` thay vì `python3.12`:
 python convert_pptx_to_markdown.py "file.pptx"
 ```
 
+### Lỗi: "File not found" với tên file có tiếng Việt
+**Vấn đề:** PowerShell truyền tên file với encoding sai đến Python
+
+**Giải pháp 1 (Khuyên dùng):** Chạy từ trong thư mục sản phẩm
+```powershell
+cd "Products\5-ALA"
+python3.12 ..\..\convert_pptx_to_markdown.py "5ALA Presentation tiếng Việt.pptx" "README.md"
+```
+
+**Giải pháp 2:** Script đã có fallback - tự động tìm file bằng pattern matching
+```
+📝 Found file: 5ALA Presentation tiếng Việt.pptx
+```
+
+**Giải pháp 3:** Sử dụng `convert_all.ps1` - đã được tối ưu để xử lý vấn đề này
+
 ### Tiếng Việt vẫn bị lỗi
 Đảm bảo bạn đang dùng script `convert_pptx_to_markdown.py` chứ KHÔNG dùng lệnh `markitdown` trực tiếp.
 

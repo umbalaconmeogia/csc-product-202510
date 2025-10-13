@@ -71,8 +71,17 @@ def convert_pptx_to_markdown(input_file, output_file=None, extract_images=False)
     
     # Check if input file exists
     if not os.path.exists(input_file):
-        print(f"❌ Error: File '{input_file}' not found")
-        sys.exit(1)
+        # Try to find file with glob pattern (handles encoding issues)
+        import glob
+        pattern = input_file.replace('tiếng Việt', '*').replace('ti?ng Vi?t', '*').replace('ti蘯ｿng Vi盻㏄', '*')
+        matches = glob.glob(pattern)
+        if matches:
+            input_file = matches[0]
+            print(f"📝 Found file: {input_file}")
+        else:
+            print(f"❌ Error: File '{input_file}' not found")
+            print(f"   Tried pattern: {pattern}")
+            sys.exit(1)
     
     # Default output file name
     if output_file is None:

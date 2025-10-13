@@ -12,8 +12,9 @@ Dự án này chứa thông tin chi tiết về các sản phẩm của CSC:
 - **Cmarox** - Trace Mineral supplement
 - **N3 - Night Serum** - Serum chăm sóc da ban đêm
 - **ProImmilk** - Sản phẩm sữa tăng cường miễn dịch
+- **Quotation of Cancer Products** - Bảng báo giá ODM/OEM (18 sản phẩm)
 
-## Chuyển Đổi PowerPoint sang Markdown
+## Chuyển Đổi PowerPoint/Excel sang Markdown
 
 ### Vấn Đề với Tiếng Việt
 
@@ -26,10 +27,16 @@ markitdown 'file.pptx' > README.md
 
 ### Giải Pháp ✅
 
-Sử dụng script Python `convert_pptx_to_markdown.py` đã được tối ưu cho tiếng Việt:
+Sử dụng script Python `convert_pptx_to_markdown.py` đã được tối ưu cho tiếng Việt.
 
+**PowerPoint:**
 ```shell
 python3.12 convert_pptx_to_markdown.py "Products\5-ALA\5ALA Presentation tiếng Việt.pptx" "Products\5-ALA\README.md"
+```
+
+**Excel:**
+```shell
+python3.12 convert_pptx_to_markdown.py "Products\Quotation of Cancer Products\ODM-0EM 2025.xlsx" "Products\Quotation of Cancer Products\README.md"
 ```
 
 ### Cài Đặt

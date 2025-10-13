@@ -2,15 +2,20 @@
 
 ## TL;DR - Lệnh Nhanh
 
-### Convert một file PowerPoint có tiếng Việt:
+### Convert PowerPoint/Excel có tiếng Việt:
 ```powershell
+# PowerPoint
 python3.12 convert_pptx_to_markdown.py "Products\TênSảnPhẩm\file.pptx" "Products\TênSảnPhẩm\README.md"
+
+# Excel
+python3.12 convert_pptx_to_markdown.py "Products\TênSảnPhẩm\file.xlsx" "Products\TênSảnPhẩm\README.md"
 ```
 
-### Trích xuất hình ảnh:
+### Trích xuất hình ảnh (chỉ cho PowerPoint):
 ```powershell
 cd "Products\TênSảnPhẩm"
 python3.12 extract_images.py
+python3.12 create_dummy_images.py
 ```
 
 ## Quy Trình Đầy Đủ
@@ -84,6 +89,12 @@ python3.12 create_dummy_images.py
 cd ..\..
 ```
 
+### Cancer Products (Excel)
+```powershell
+# File Excel không cần trích xuất hình ảnh
+python3.12 convert_pptx_to_markdown.py "Products\Quotation of Cancer Products\ODM-0EM 2025.xlsx" "Products\Quotation of Cancer Products\README.md"
+```
+
 ## Lệnh Batch - Convert Tất Cả Cùng Lúc
 
 Tạo file `convert_all.ps1`:
@@ -91,27 +102,30 @@ Tạo file `convert_all.ps1`:
 ```powershell
 # Convert all products
 $products = @(
-    @{Dir="Acropass"; File="Quotation of Acropass Beauty_20205_ ver01.pptx"},
-    @{Dir="Albumin"; File="Quotation of Albumin Drinking.pptx"},
-    @{Dir="AmabiRes"; File="AmabiRis Quotation 2025_ver01.pptx"},
-    @{Dir="Cmarox"; File="Trace Mineral Cmarox Quotation_2025_Ver02.pptx"},
-    @{Dir="ProImmilk"; File="Quotation of ProImmilk.pptx"}
+    @{Dir="Acropass"; File="Quotation of Acropass Beauty_20205_ ver01.pptx"; Type="pptx"},
+    @{Dir="Albumin"; File="Quotation of Albumin Drinking.pptx"; Type="pptx"},
+    @{Dir="AmabiRes"; File="AmabiRis Quotation 2025_ver01.pptx"; Type="pptx"},
+    @{Dir="Cmarox"; File="Trace Mineral Cmarox Quotation_2025_Ver02.pptx"; Type="pptx"},
+    @{Dir="ProImmilk"; File="Quotation of ProImmilk.pptx"; Type="pptx"},
+    @{Dir="Quotation of Cancer Products"; File="ODM-0EM 2025.xlsx"; Type="xlsx"}
 )
 
 foreach ($product in $products) {
     Write-Host "`n=== Converting $($product.Dir) ===" -ForegroundColor Cyan
     
-    $pptxPath = "Products\$($product.Dir)\$($product.File)"
+    $filePath = "Products\$($product.Dir)\$($product.File)"
     $mdPath = "Products\$($product.Dir)\README.md"
     
     # Convert to markdown
-    python3.12 convert_pptx_to_markdown.py $pptxPath $mdPath
+    python3.12 convert_pptx_to_markdown.py $filePath $mdPath
     
-    # Extract images
-    Push-Location "Products\$($product.Dir)"
-    python3.12 extract_images.py
-    python3.12 create_dummy_images.py
-    Pop-Location
+    # Extract images (only for PowerPoint files)
+    if ($product.Type -eq "pptx") {
+        Push-Location "Products\$($product.Dir)"
+        python3.12 extract_images.py
+        python3.12 create_dummy_images.py
+        Pop-Location
+    }
     
     Write-Host "✓ Completed $($product.Dir)`n" -ForegroundColor Green
 }
