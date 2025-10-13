@@ -1,0 +1,43 @@
+# PowerPoint temporary files
+~$*.pptx
+~$*.ppt
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.doc
+
+# Backup files
+*.backup
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Extracted images (uncomment if you don't want to commit images)
+# Note: We keep the renamed images (Picture*.jpg, object*.jpg) but can ignore originals
+Products/*/image*.jpg
+Products/*/image*.png
+Products/*/image*.jpeg
+Products/*/image*.gif
+Products/*/image*.emf
+
