@@ -4,6 +4,9 @@
 Capital Seaweed group
 
 <!-- Slide number: 1 -->
+
+![slide 1](ppt_images/slide_1.png)
+
 ## BẢNG BÁO GIÁ SẢN PHẨM
 (Giải pháp giữ trọn Thanh Xuân)
 Trước tiên, Công Ty Cổ phần Capital Seaweed Consumer Việt Nam xin gửi lời cảm ơn chân thành đến Quý khách hàng đã quan tâm và tin tưởng các sản phẩm của chúng tôi. Chúng tôi xin trân trọng giới thiệu bảng giá chi tiết cho các sản phẩm chăm sóc sức khỏe và sắc đẹp như sau:
@@ -62,6 +65,8 @@ CÔNG TY CỔ PHẦN CAPITAL SEAWEED CONSUMER VIỆT NAM
     - Ngân hàng: TMCP Ngoại Thương Việt Nam - Chi Nhánh Tân Bình
 
 <!-- Slide number: 2 -->
+
+![slide 2](ppt_images/slide_2.png)
 Chúng tôi cam kết đảm bảo chất lượng và nguồn gốc của sản phẩm. Quý Khách có thể tham khảo thông tin chi tiết về từng sản phẩm, tài liệu khoa học, chứng từ - chứng nhận, cách sử dụng và giá cả trên website www.cscshop.vn của chúng tôi, hoặc liên hệ trực tiếp với đội ngũ KINH DOANH CỦA CSgroup để biết thêm thông tin.
 
 <table>
@@ -112,6 +117,8 @@ Hỗ trợ điều trị Tiểu đường, duy trì & bồi bổ sức khỏe t�
 
 <!-- Slide number: 3 -->
 
+![slide 3](ppt_images/slide_3.png)
+
 ## Công dụng của 5-ALA
 
 ![](images/image3-congdung.jpg)
@@ -130,6 +137,8 @@ Hỗ trợ điều trị Tiểu đường, duy trì & bồi bổ sức khỏe t�
   5-ALA giúp cơ thể kích hoạt enzyme HO-1 để sản sinh ra bilirubin và carbon monoxide (CO) có tác dụng loại bỏ các gốc oxy hóa tự do (ROS) có trong tế bào, từ đó sức khỏe của chúng ta được cải thiện rõ rệt.
 
 <!-- Slide number: 4 -->
+
+![slide 4](ppt_images/slide_4.png)
 
 ![](images/image4-doituong.jpg)
 
@@ -164,6 +173,8 @@ Hỗ trợ điều trị Tiểu đường, duy trì & bồi bổ sức khỏe t�
 
 <!-- Slide number: 5 -->
 
+![slide 5](ppt_images/slide_5.png)
+
 ## Axit 5-Aminolevulinic (5-ALA)
 
 志村優(Yu Shimura)
@@ -175,6 +186,8 @@ Diễn đàn Nghiên cứu Các bệnh Ti thể của Người lần thứ 5, ng
 
 <!-- Slide number: 6 -->
 
+![slide 6](ppt_images/slide_6.png)
+
 ## Nội Dung Chính
 
 1. Axit 5-Aminolevulinic Axit (5-ALA) là gì?
@@ -184,12 +197,16 @@ Diễn đàn Nghiên cứu Các bệnh Ti thể của Người lần thứ 5, ng
 3. Thử nghiệm lâm sàng trên bệnh não Leigh dưới sự hướng dẫn của bác sĩ
 
 <!-- Slide number: 7 -->
+
+![slide 7](ppt_images/slide_7.png)
 ### PHẦN 1 - Axit 5-Aminolevulinic Axit (5-ALA) là gì?
 
 * Một số khái niệm cơ bản về 5-ALA
 * Ứng dụng 5-ALA trong Y Dược
 
 <!-- Slide number: 8 -->
+
+![slide 8](ppt_images/slide_8.png)
 ### ALA là gì? – Tại sao ALA được xem là nguồn gốc sự sống
 
 Axit 5-Aminolevulinic được gọi tắt là 5-ALA
@@ -216,6 +233,8 @@ Glycine, serine, glutamine, glutamic acid, lorin, tyrosine, cysteine, alanine, a
 Valine, leucine, inleucine, lysine, thionine, phenalalanine, threonine, lyptophan, histidine, v.v…
 
 <!-- Slide number: 9 -->
+
+![slide 9](ppt_images/slide_9.png)
 ALA là gì? – Tại sao ALA được xem là nguồn gốc sự sống (t.t.)
 
 ![](object2.jpg)
@@ -235,6 +254,8 @@ Diệp lục
 SỰ KẾT HỢP VÔ CÙNG QUAN TRỌNG GIỮA ALA VÀ CÁC KHOÁNG CHẤT
 
 <!-- Slide number: 10 -->
+
+![slide 10](ppt_images/slide_10.png)
 
 ![](object2.jpg)
 Mối Liên Hệ Giữa Heme Và Ty Thể Trong Tế Bào?
@@ -257,6 +278,8 @@ Heme
 
 <!-- Slide number: 11 -->
 
+![slide 11](ppt_images/slide_11.png)
+
 ![](object2.jpg)
 Chuyển Hóa 5-ALA Trong Cơ Thể
 5-ALA được tổng hợp mới 600mg/ngày
@@ -273,6 +296,8 @@ Trữ lượng 5-ALA
 ![](Picture3.jpg)
 
 <!-- Slide number: 12 -->
+
+![slide 12](ppt_images/slide_12.png)
 
 ![](object2.jpg)
 Sự Lão Hóa Và ALA
@@ -293,6 +318,8 @@ Heme cũng bị thiếu hụt dần vì ALA, yếu tố xác định cường đ
 
 <!-- Slide number: 13 -->
 
+![slide 13](ppt_images/slide_13.png)
+
 ![](object2.jpg)
 Triệu Chứng Học Của Sự Lão Hóa Do Thiếu Hụt Heme
 Sự thiếu hụt Heme là một trong những nguyên nhân gây ra lão hóa
@@ -302,6 +329,8 @@ Sự thiếu hụt Heme là một trong những nguyên nhân gây ra lão hóa
 Những triệu chứng của việc thiếu hụt heme tương tự như sự lão hóa ở người
 
 <!-- Slide number: 14 -->
+
+![slide 14](ppt_images/slide_14.png)
 
 ![](object2.jpg)
 Chuyển Hóa Glucose Bất Thường Do Thiếu ALA
@@ -316,6 +345,8 @@ Thời gian sau khi tiêm glucose (phút)
 ALA và sự mất điều hòa heme có thể đóng vai trò nhất định trong kiểm soát chuyển hóa glucose
 
 <!-- Slide number: 15 -->
+
+![slide 15](ppt_images/slide_15.png)
 
 ![](object2.jpg)
 Chu Trình Hấp Thụ ALA Qua Đường Miệng
@@ -337,6 +368,8 @@ ALAS: Aminolevulinic acid synthase
 
 <!-- Slide number: 16 -->
 
+![slide 16](ppt_images/slide_16.png)
+
 ![](object2.jpg)
 Tác dụng của việc bổ sung ALA
 Hàm lượng Heme tăng lên sau khi bổ sung ALA và sắt
@@ -345,6 +378,8 @@ Thí nghiệm bổ sung 0,1 mM 5-ALA và Fe cho tế bào động mạch phổi 
 *Ghi chú: Khi heme được tiêm một cách trực tiếp sẽ kích hoạt phản ứng khử enzyme và bắt đầu quá trình phân hủy.
 
 <!-- Slide number: 17 -->
+
+![slide 17](ppt_images/slide_17.png)
 Tác dụng của việc bổ sung ALA – Cải thiện hoạt động của ty thể
 
 ![](object2.jpg)
@@ -359,6 +394,8 @@ Kiểm soát                  ALA
 Kiểm soát                  ALA
 
 <!-- Slide number: 18 -->
+
+![slide 18](ppt_images/slide_18.png)
 
 ![](object2.jpg)
 Tác dụng của việc bổ sung ALA – Cải thiện trao đổi glucose
@@ -380,6 +417,8 @@ Thời gian sau khi nạp glucose (phút)
 
 <!-- Slide number: 19 -->
 
+![slide 19](ppt_images/slide_19.png)
+
 ![](object2.jpg)
 Những tác dụng khác của việc bổ sung ALA
 Trao đổi chất
@@ -393,6 +432,8 @@ Lão hóa / Vận động
 * Cải thiện hiệu quả của sự vận động / tập thể dục ở phụ nữ có tuổi.
 
 <!-- Slide number: 20 -->
+
+![slide 20](ppt_images/slide_20.png)
 Chức Năng Bảo Về Tế Bào của HO-1 (heme oxygenase-1)
 
 ![](object2.jpg)
@@ -405,6 +446,8 @@ Viêm
 
 <!-- Slide number: 21 -->
 
+![slide 21](ppt_images/slide_21.png)
+
 ![](object2.jpg)
 Chức Năng Bảo Vệ Tế Bào của HO-1 (heme oxygenase-1) – Bệnh Miễn Dịch
 5-ALA / SFC kiềm chế sự phát triển của vấn đề Xơ cứng bì phát sinh từ bệnh Ghép chống chủ (GVHD)
@@ -414,6 +457,8 @@ Tế bào được bổ sung 5-ALA
 Biến đổi yếu tố tăng trưởng Beta (TGF-B) và những cytokine gây viêm được kiểm soát bởi sự kích hoạt của HO-1, qua đó kiềm chế chứng Xơ cứng bì do bệnh Ghép chống chủ (GVHD) gây ra.
 
 <!-- Slide number: 22 -->
+
+![slide 22](ppt_images/slide_22.png)
 
 ![](object2.jpg)
 Tác Động Của 5-ALA Đối Với Các Bệnh Truyền Nhiễm
@@ -429,6 +474,8 @@ Trung tâm Nghiên cứu Lâm sàng sự truyền nhiễm COVID-19 ở người.
 * Tiêm bổ sung 5-ALA và SFC kích hoạt việc sản sinh các chất chuyển hóa trung gian và Heme. Những chất này sau đó tích tụ bên trong virút sốt rét và đẩy mạnh quá trình oxy hóa. Phương thức này sẽ cho phép kiểm soát bệnh sốt rét.
 
 <!-- Slide number: 23 -->
+
+![slide 23](ppt_images/slide_23.png)
 
 ![](object2.jpg)
 Tác Động Của 5-ALA Trên Tế Bào Ung Thư Trong Chẩn Đoán & Điều Trị Bằng Liệu Pháp Quang Động
@@ -449,6 +496,8 @@ Quan sát qua kính florescent chuyên dụng
 
 <!-- Slide number: 24 -->
 
+![slide 24](ppt_images/slide_24.png)
+
 ![](object2.jpg)
 Tóm Tắt Những Tác Dụng Của 5-ALA
 Tăng cường chuyển hóa glycolipid, ngăn chặn các bệnh thoái hóa thần kinh, kiểm soát những thay đổi do tuổi tác, kìm hãm bệnh ty thể, cải thiện chức năng các bộ phận cơ thể;
@@ -460,10 +509,14 @@ Hiệu quả trong ứng dụng chẩn đoán và điều trị ung thư;
 Những tác động của 5-ALA trên bệnh ty thể?
 
 <!-- Slide number: 25 -->
+
+![slide 25](ppt_images/slide_25.png)
 PHẦN 2:
 TÁC ĐỘNG CỦA 5-ALA TRÊN BỆNH TY THỂ
 
 <!-- Slide number: 26 -->
+
+![slide 26](ppt_images/slide_26.png)
 
 ![](object2.jpg)
 Số Lượng Trường Hợp Được Yêu Cầu Xét Nghiệm Bệnh Ty Thể
@@ -475,6 +528,8 @@ Tính đến 01/2021 có tổng cộng 2800 trường hợp đã được lấy 
 
 <!-- Slide number: 27 -->
 
+![slide 27](ppt_images/slide_27.png)
+
 ![](object2.jpg)
 Số Lượng Chẩn Đoán Sinh Hóa Của Bệnh Ty Thể
 1159 dữ liệu và mẫu xét nghiệm đã được thu thập về thông tin lâm sàng, chẩn đoán sinh hóa và di truyền.
@@ -484,6 +539,8 @@ Cũ
 Hơn 800 mẫu nguyên bào sợi ở da đã được thu thập và bảo quản
 
 <!-- Slide number: 28 -->
+
+![slide 28](ppt_images/slide_28.png)
 
 ![](object2.jpg)
 Hồ Sơ Bệnh Nhân Có Bệnh Ty Thể Đã Được Lựa Chọn Để Nghiên Cứu
@@ -503,6 +560,8 @@ Tác động của 5-ALA trên chức năng ty thể đã được kiểm tra b�
 
 <!-- Slide number: 29 -->
 
+![slide 29](ppt_images/slide_29.png)
+
 ![](object2.jpg)
 Phương Pháp Thí Nghiệm
 ngày
@@ -519,6 +578,8 @@ Các mẫu xét nghiệm đã ghi nhận protein liên quan đến quá trình p
 
 <!-- Slide number: 30 -->
 
+![slide 30](ppt_images/slide_30.png)
+
 ![](object2.jpg)
 Tác Động Của 5-ALA Trên Nguyên Bào Sợi Ở Da Bình Thường – Biểu Hiện Protein
 Tác động của ALA + SFC trên NDUFB8 (Phức hợp I), UQCRC2 (Phức hợp III), và biểu hiện của protein MTCO1 (Phức hợp IV)
@@ -529,6 +590,8 @@ Tác động của ALA + SFC trên NDUFB8 (Phức hợp I), UQCRC2 (Phức hợp
 Beta-actin
 
 <!-- Slide number: 31 -->
+
+![slide 31](ppt_images/slide_31.png)
 
 ![](object2.jpg)
 Tác Động Của 5-ALA Trên Nguyên Bào Sợi Ở Da Bình Thường – Biểu Hiện Protein
@@ -543,6 +606,8 @@ Biểu hiện tương đối
 (Phức hợp IV)
 
 <!-- Slide number: 32 -->
+
+![slide 32](ppt_images/slide_32.png)
 Tác Động Của 5-ALA Trên Nguyên Bào Sợi Ở Da Bình Thường – Tiêu Thụ Oxy
 
 ![](object2.jpg)
@@ -560,6 +625,8 @@ Thời gian (phút)
 
 <!-- Slide number: 33 -->
 
+![slide 33](ppt_images/slide_33.png)
+
 ![](object2.jpg)
 Tác Động Của 5-ALA Trên Nguyên Bào Sợi Trên Da – Mức Tiêu Thụ Oxy Và Sản Xuất ATP
 Mức độ tiêu thụ khí oxy của ty thể và lượng ATP sản xuất đều tăng, đặc biệt là dưới tác động của tổ hợp ALA + SFC (200 / 100 µM)
@@ -576,6 +643,8 @@ Sản lượng ATP của tế bào không tăng nhiều nếu như chỉ có s�
 
 <!-- Slide number: 34 -->
 
+![slide 34](ppt_images/slide_34.png)
+
 ![](object2.jpg)
 Tác Động Của 5-ALA Trên Mẫu Tế Bào Từ Bệnh Nhân – Biểu Hiện Protein
 ALA + SFC đồng thời thúc đẩy biểu hiện protein liên quan đến chuỗi hô hấp trên những tế bào mẫu thu được từ bệnh nhân.
@@ -587,6 +656,8 @@ Complex IV = Phức hợp IV
 UQCRC2 (Phức hợp III), MTCO1 (Phức hợp IV) đều được cải thiện trong tất cả bệnh nhân (8/8). NDUFB8 (Phức hợp I) được cải thiện trong 5/8 trường hợp, và SDHB (Phức hợp II) được cải thiện trong 2/8 trường hợp. (Shimura M et al., Sci Rep. 2019; 9: 10549)
 
 <!-- Slide number: 35 -->
+
+![slide 35](ppt_images/slide_35.png)
 
 ![](object2.jpg)
 Tác Động Của 5-ALA Trên Mẫu Tế Bào Từ Bệnh Nhân – Mức Độ Tiêu Thụ Oxy, Sản Lượng ATP
@@ -600,6 +671,8 @@ Những mẫu tế bào được nuôi trong môi trường tổ hợp ALA + SFC
 
 <!-- Slide number: 36 -->
 
+![slide 36](ppt_images/slide_36.png)
+
 ![](object2.jpg)
 Tác Động Của 5-ALA Trên Nguyên Bào Sợi Ở Da Bình Thường – Biểu Hiện HO-1
 Biểu hiện HO-1 được cải thiện bởi tổ hợp ALA+SFC phụ thuộc vào nồng độ của tổ hợp này
@@ -611,6 +684,8 @@ Viêm nhiễm
 Biểu hiện HO-1 của nguyên bào sợi trên da bình thường được cải thiện dưới tác động của môi trường ALA + SFC.
 
 <!-- Slide number: 37 -->
+
+![slide 37](ppt_images/slide_37.png)
 Tác Động Của 5-ALA Trên Mẫu Tế Bào Từ Bệnh Nhân – Biểu Hiện HO-1
 
 ![](object2.jpg)
@@ -618,6 +693,8 @@ Biểu hiện của protein HO-1 trong mẫu tế bào từ bệnh nhân đượ
 Những cải thiện trong biểu hiện của protein HO-1 đã được xác nhận trên tất cả những mẫu tế bào từ bệnh nhân. Mức độ ảnh hưởng của tổ hợp ALA + SFC phụ thuộc rất nhiều vào nồng độ của tổ hợp này.
 
 <!-- Slide number: 38 -->
+
+![slide 38](ppt_images/slide_38.png)
 
 ![](object2.jpg)
 Tác Động Của 5-ALA Trên Quá Trình Tổng Hợp Sinh Học Của Ty Thể
@@ -632,6 +709,8 @@ HO-1, CO là yếu tố phiên mã DNA ty thể tăng cường biểu hiện c�
 
 <!-- Slide number: 39 -->
 
+![slide 39](ppt_images/slide_39.png)
+
 ![](object2.jpg)
 Tóm tắt những tác động của tổ hợp 5-ALA + SFC trên các mẫu tế bào lấy từ bệnh nhân có bệnh ty thể
 Cải thiện biểu hiện của các Phức hợp 1, 2, 3 và 4 trong ty thể của những mẫu tế bào lấy từ các bệnh nhân có bệnh ty thể.
@@ -642,12 +721,16 @@ Tăng cường số lượng bảo sao DNA ty thể.
 Những hiệu quả điều trị nào đối với bệnh ty thể thực sự?
 
 <!-- Slide number: 40 -->
+
+![slide 40](ppt_images/slide_40.png)
 PHẦN 3:
 Thử nghiệm lâm sàng dưới sự quản lý của các Bác sĩ đối với bệnh não Leigh
 
 ![](object2.jpg)
 
 <!-- Slide number: 41 -->
+
+![slide 41](ppt_images/slide_41.png)
 Thử nghiệm lâm sàng để kiểm tra tác động của 5-ALA + SFC trên bệnh Leigh
 Thử nghiệm đang được tiến hành cho những giai đoạn khác nhau
 
@@ -663,6 +746,8 @@ Giai đoạn I của thử nghiệm lâm sàng trên người trưởng thành �
 Nghiên cứu Giai đoạn III (nghiên cứu khám phá: xem xét mức hiệu quả và độ an toàn trên một số lượng nhỏ các bệnh nhân) đã được hoàn tất vào tháng 03/2016. Thử nghiệm lâm sàng Giai đoạn III để xác nhận và khẳng định kết quả trên một số lượng bệnh nhân lớn hơn đang được thực hiện.
 
 <!-- Slide number: 42 -->
+
+![slide 42](ppt_images/slide_42.png)
 Thang Điểm Bệnh Ty Thể Ở Trẻ Em (NPMDS)
 Xem Xét Những Tác Động Của Tổ Hợp 5-ALA / SFC Dựa Trên Những Thay Đổi Theo Thời Gian Của Điểm NPMDS
 
@@ -682,6 +767,8 @@ Giai đoạn thử nghiệm lâm sàng
 Giao động trong điểm NPMDS vào những thời điểm khác nhau của thử nghiệm lâm sàng. Nghiên cứu Y học Di truyền MOOK (2020), 35, 224-233
 
 <!-- Slide number: 43 -->
+
+![slide 43](ppt_images/slide_43.png)
 Xem Xét Những Tác Động Của Tổ Hợp 5-ALA / SFC Dựa Trên Những Thay Đổi Theo Thời Gian Qua Ảnh Chụp Cộng Hưởng Từ Của Não
 
 ![](object2.jpg)
@@ -696,6 +783,8 @@ Trước khi bắt đầu thử nghiệm lâm sàng - Ảnh chụp MRI cho thấ
 
 <!-- Slide number: 44 -->
 
+![slide 44](ppt_images/slide_44.png)
+
 ![](object2.jpg)
 Tình Trạng Bệnh Nhân Hoàn Toàn Ổn Định Sau Quá Trình Lâm Sàng Với 5-ALA/SFC
 Trường Hợp 1: Tổn thương ở thân não hoàn toàn biến mất trên ảnh chụp cộng hưởng từ:
@@ -707,6 +796,8 @@ Trường hợp 2: Trường hợp tổn thương nghiêm trọng hơn nhưng b�
 - Đánh giá lâm sàng cũng cho thấy cải thiện đối với chức năng nói và sử dụng ngôn ngữ để giao tiếp.
 
 <!-- Slide number: 45 -->
+
+![slide 45](ppt_images/slide_45.png)
 KẾT LUẬN
 
 ![](object2.jpg)
